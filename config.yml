@@ -1,0 +1,8 @@
+chat-enable: true
+chat-message:
+  chat-enable: "&4test"
+  chat-disable: "&4test"
+
+join-message:
+  enable: true
+  message: "this is a join message %player%"

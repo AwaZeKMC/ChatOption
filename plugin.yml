@@ -1,0 +1,7 @@
+main: fr.awazek.chatoption.Main
+author : AwaZeK
+version: 0.0.1
+name: ChatOption
+commands:
+  chatoption:
+    permission: chatoption.admin
